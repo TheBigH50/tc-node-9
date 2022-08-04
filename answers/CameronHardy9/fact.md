@@ -1,7 +1,5 @@
 # The Lorem Ipsum
 
-<br>
-
 > "The lorem ipsum is based on De finibus bonorum et malorum, a Latin text written by Cicero in 45 BC. 
 Typographers and printers have used passages from this work for formatting since the 16th century. 
 Many words have been added or modified over the centuries. 
